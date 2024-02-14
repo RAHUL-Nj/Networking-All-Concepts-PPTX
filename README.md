@@ -18,5 +18,25 @@ Values: :-
 6. Wireless Networking
 7. Network Threads
 8. Troubleshooting
-9. Remote Desktop Connection
+9. Remote Desktop Connection-
+
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+   🛜 Network Scanning Complete👨‍💻
+Network Scanning Complete PDF Easy to Understand for Network Scanning Concepts with - Output result the scanning, picture
+example 🚦
+Explain all Scanning concepts of one by one 💡
+
+
+
+Values: :-
+1. SCANNING
+2. TCP COMMUNICATION
+3. SCANNING TECHNIQUES
+4. WIRESHARK
+5. SCANNING TOOLS
+6. EVASION TECHNIQUES
+7. NMAP SCRIPTING
+
+
 
