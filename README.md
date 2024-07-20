@@ -39,4 +39,18 @@ Values: :-
 7. NMAP SCRIPTING
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![WIFI](https://github.com/user-attachments/assets/10e7f30b-14f0-4329-89c8-ef3542d6e0de)
+
+
+
+Wi-Fi Penetration Testing ( 💀: Wireless Network Hacking)
+
+What you will learn?
+
+1. What is WiFi
+2. History of WiFi
+3. How Wi-Fi work
+4. Types of wireless Threats 
+5. Wireless Hacking Methodology
